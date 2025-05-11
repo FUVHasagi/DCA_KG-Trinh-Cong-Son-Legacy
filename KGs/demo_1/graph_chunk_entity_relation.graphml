@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="order" attr.type="long" />
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;BIỂN&quot;">
+      <data key="d0">"NATURE"</data>
+      <data key="d1">"Biển là trung tâm biểu tượng trong bài hát, thể hiện sự vô tận và nổi trôi của cảm xúc và ký ức. Gắn với 'nature_as_mnemonic_landscape' và 'nature_as_homeland'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;BỜ&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bờ biển tượng trưng cho điểm kết thúc, giới hạn mà biển chạm tới. Là nơi giao thoa giữa thiên nhiên và con người, biểu thị 'constrained_space' và 'psychological_space'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;TRÙNG KHƠI&quot;">
+      <data key="d0">"SPACE"</data>
+      <data key="d1">"Trùng khơi biểu tượng cho sự bao la, vô định và sâu thẳm của cảm xúc con người. Gắn với 'expansive_space' và 'surreal_space'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;NGỌT ĐẮNG&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Khái niệm 'ngọt đắng' gợi liên tưởng đến những hương vị cuộc đời, vừa ngọt ngào vừa cay đắng, đặc trưng cho cảm xúc con người. Gắn với 'psychological_space'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;NGHÌN THU&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"Khái niệm 'nghìn thu' tượng trưng cho dòng thời gian vĩnh cửu và sự ngậm ngùi, lên án câu chuyện vô thường của cuộc đời. Gắn với 'cyclical_time' và 'symbolic_time'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;EM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"'Em' được mô tả như một phần nhạy cảm của biển, biểu tượng cho tình yêu và sự hoài niệm. Gắn với 'feminine_subjectivity' và 'psychological_space'."&lt;SEP&gt;"Nhân vật nữ trung tâm trong bài hát, biểu tượng cho tuổi trẻ, niềm vui nhưng cũng ẩn chứa sự thoáng qua của thời gian. Gắn với 'feminine_subjectivity' và 'psychological_time'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8&lt;SEP&gt;chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;SỰ ĐÁNH NHAU&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Hình ảnh 'đánh nhau' giữa biển và bờ biển là một phép ẩn dụ mô tả xung đột nội tâm, sự giằng co giữa tình cảm và lý trí, thiên nhiên và con người. Gắn với 'symbolic_space'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;TÀN PHAI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Khái niệm 'tàn phai' gợi lên sự tồn tại ngắn ngủi và vô thường của vạn vật, đặc biệt là cảm xúc và ký ức. Gắn với 'nature_as_impermanence'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;GẠCH TÊN&quot;">
+      <data key="d0">"ACTION"</data>
+      <data key="d1">"Hành động 'gạch tên' tượng trưng cho sự xóa bỏ, từ chối hoặc quên đi một phần ký ức hoặc mối quan hệ. Gắn với 'psychological_time'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;XÉ NÁT&quot;">
+      <data key="d0">"ACTION"</data>
+      <data key="d1">"Hành động 'xé nát' biểu thị sự phá vỡ cảm xúc, đau thương và sự chia cắt. Gắn với 'reification_and_objectification'."</data>
+      <data key="d2">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;CHUYẾN ĐÒ&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Biểu tượng cuộc hành trình của cuộc sống, những bước chân đi qua những trạng thái và giai đoạn khác nhau. Gắn với 'nonlinear_time'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;CON TRĂNG&quot;">
+      <data key="d0">"ARTISTIC SYMBOLS"</data>
+      <data key="d1">"Hình ảnh con trăng mang tính chất lãng mạn, thể hiện sự không ổn định của thời gian và tuổi trẻ. Gắn với 'symbolic_time'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;CON SÔNG&quot;">
+      <data key="d0">"NATURE"</data>
+      <data key="d1">"Biểu tượng của cuộc đời và thời gian trôi chảy không ngừng, làm nền cho những sự đổi thay. Gắn với 'nature_as_impermanence'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;QUÁN TRỌ&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Biểu tượng nơi dừng chân tạm thời, thể hiện tính tạm bợ và phù du của cuộc sống. Gắn với 'symbolic_space'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;NGÀY HỘI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Biểu hiện của sự vui tươi, hân hoan, tưởng nhớ những thời khắc đẹp đẽ trong đời. Gắn với 'psychological_space'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;ĐÁ CUỘI&quot;">
+      <data key="d0">"NATURE"</data>
+      <data key="d1">"Chất liệu tự nhiên biểu tượng cho sự bền bỉ và tiếp nối theo dòng chảy của thời gian. Gắn với 'nature_as_refuge'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;NGUỒN CỘI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Tư tưởng tìm về gốc gác, căn nguyên của bản thân và cuộc đời. Gắn với 'spiritual_orientalism'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;CÂY&quot;">
+      <data key="d0">"NATURE"</data>
+      <data key="d1">"Hình ảnh mang tính chất tĩnh lặng, gợi nhớ về không gian thiên nhiên và gắn kết với đất mẹ. Gắn với 'nature_as_homeland'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;BÓNG TỐI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Tượng trưng cho nỗi buồn và tạm lắng của nội tâm. Gắn với 'psychological_space'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;MƯA&quot;">
+      <data key="d0">"NATURE"</data>
+      <data key="d1">"Dấu hiệu của sự hòa tan, thể hiện sự chuyển biến cảm xúc và hiện thực của cuộc đời. Gắn với 'nature_as_impermanence'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;GÓT HÀI&quot;">
+      <data key="d0">"OTHER SYMBOLS"</data>
+      <data key="d1">"Biểu tượng cho bước đi và tiến trình của cuộc sống, liên kết với hình ảnh nữ tính và sự duyên dáng. Gắn với 'feminine_subjectivity'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;CON TRĂNG TRẺ&quot;">
+      <data key="d0">"ARTISTIC SYMBOLS"</data>
+      <data key="d1">"Hình ảnh trăng còn trẻ, tượng trưng cho thời kỳ đầu của cuộc sống và sự mới mẻ. Gắn với 'symbolic_time'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;CON TRĂNG GIÀ&quot;">
+      <data key="d0">"ARTISTIC SYMBOLS"</data>
+      <data key="d1">"Biểu tượng mặt trăng đã qua thời kỳ trẻ trung, thể hiện sự già dặn và trải nghiệm qua thời gian. Gắn với 'symbolic_time'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;BUỒN CHÂN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Cảm giác muốn dừng lại, phản ánh sự mệt mỏi và khát khao tìm kiếm một điểm tựa trong hành trình. Gắn với 'psychological_time'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;VUI NHƯ NGÀY HỘI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Cảm giác phấn khích và niềm vui lan tỏa liên tưởng đến các sự kiện đặc biệt của cuộc đời. Gắn với 'psychological_space'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;LĂN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Hành động dịch chuyển không ngừng, gợi nhớ về sự tiếp diễn của cuộc sống. Gắn với 'nature_as_impermanence'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;THU BÓNG DÀI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Sự thu về của bóng cây, tượng trưng cho sự thu hồi và giữ gìn những ký ức và thời gian đã qua. Gắn với 'symbolic_space'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;BIẾT ĐÂU NGUỒN CỘI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ý niệm tìm về cội nguồn của bản thân, là khát khao tìm kiếm chân lý và bản sắc cá nhân. Gắn với 'spiritual_orientalism'."</data>
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+    </node>
+    <node id="&quot;BÓNG DÀI&quot;">
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d1">"Cây và bóng dài tượng trưng cho sự kết nối và đóng góp vào không gian thiên nhiên và sự tĩnh tại."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TRỜI&quot;">
+      <data key="d2">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d1">"Mưa tan giữa trời là hình ảnh của sự hòa quyện và chuyển hóa cuộc sống và cảm xúc."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;BIỂN&quot;" target="&quot;BỜ&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Biển và bờ đại diện cho mối quan hệ đối lập nhưng không thể tách rời giữa tự do cảm xúc và những giới hạn thực tế."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIỂN&quot;" target="&quot;EM&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Biển được ví như em, đại diện cho sự dịu dàng nhưng sâu thẳm, gợi nhớ về tình yêu và sự mất mát."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIỂN&quot;" target="&quot;TRÙNG KHƠI&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Biển và trùng khơi cùng tạo ra một không gian vô tận, tượng trưng cho sự tìm kiếm ý nghĩa của cuộc sống."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIỂN&quot;" target="&quot;NGỌT ĐẮNG&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ngọt đắng của biển thể hiện sự đa cảm và những trải nghiệm phức tạp của con người."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIỂN&quot;" target="&quot;NGHÌN THU&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Nghìn thu gắn liền với biển, tượng trưng cho dòng chảy thời gian và sự tồn tại vĩnh hằng."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIỂN&quot;" target="&quot;SỰ ĐÁNH NHAU&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Cuộc chiến giữa biển và bờ tượng trưng cho sự đối đầu liên tục, phản ánh cảm xúc mâu thuẫn của con người trong lòng biển cả cảm xúc."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;EM&quot;" target="&quot;CHUYẾN ĐÒ&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Em qua chuyến đò là biểu hiện của sự thay đổi, đi qua nhiều giai đoạn khác nhau trong đời."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SỰ ĐÁNH NHAU&quot;" target="&quot;TÀN PHAI&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Tàn phai là kết quả của sự xung đột giữa biển và bờ, thể hiện sự mất mát và hủy hoại của xúc cảm."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SỰ ĐÁNH NHAU&quot;" target="&quot;GẠCH TÊN&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Hành động 'gạch tên' phát sinh từ sự xung đột nội tâm, là cách thức từ chối hoặc quên đi."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GẠCH TÊN&quot;" target="&quot;XÉ NÁT&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Cả hai hành động đều tượng trưng cho sự hủy diệt và kết thúc, từ xóa bỏ đến phá vỡ hoàn toàn mối quan hệ hay ký ức."</data>
+      <data key="d6">chunk-e6e4d4e9fd4584c65d13fa483320a4e8</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CHUYẾN ĐÒ&quot;" target="&quot;CON SÔNG&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Chuyến đò trên con sông là hình ảnh của cuộc đời kéo dài qua thời gian và không gian khác nhau."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CON TRĂNG&quot;" target="&quot;CON SÔNG&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Con trăng và con sông tương tác để thể hiện vòng lặp tuần hoàn và tính nhất thời của thời gian và cuộc sống."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CON TRĂNG&quot;" target="&quot;QUÁN TRỌ&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Quán trọ là nơi dừng chân tạm thời của trăng, biểu tượng cho sự tạm bợ và tìm kiếm sự ổn định."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ĐÁ CUỘI&quot;" target="&quot;GÓT HÀI&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Đá cuội lê theo gót hài như biểu tượng của nhân vật trải nghiệm và tiếp nối trong cuộc đời."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NGUỒN CỘI&quot;" target="&quot;BÓNG TỐI&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Nguồn cội và bóng tối cùng gắn với ý niệm tìm kiếm tâm linh và bản ngã trong nội tâm."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CÂY&quot;" target="&quot;BÓNG DÀI&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Cây và bóng dài tượng trưng cho sự kết nối và đóng góp vào không gian thiên nhiên và sự tĩnh tại."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MƯA&quot;" target="&quot;TRỜI&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Mưa tan giữa trời là hình ảnh của sự hòa quyện và chuyển hóa cuộc sống và cảm xúc."</data>
+      <data key="d6">chunk-653bdf44769d8758c7da9f6ff79eb620</data>
+      <data key="d7">1</data>
+    </edge>
+  </graph>
+</graphml>
